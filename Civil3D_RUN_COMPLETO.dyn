@@ -1,5 +1,5 @@
 {
-  "Uuid": "d9e2f3a4-b5c6-7890-abcd-ef1234567890",
+  "Uuid": "8ec5ef5d-a76f-4738-a824-10013b892773",
   "IsCustomNode": false,
   "Description": "Civil 3D Toolkit — Ejecuta los 4 pasos del flujo vial en secuencia automática.",
   "Name": "Civil3D_RUN_COMPLETO",
@@ -13,11 +13,11 @@
       "ConcreteType": "CoreNodeModels.Input.StringInput, CoreNodeModels",
       "NodeType": "StringInputNode",
       "InputValue": "EJE PRINCIPAL",
-      "Id": "a1a1a1a1-0001-0001-0001-000000000001",
+      "Id": "319a5f89-b8d6-4119-bdd1-f89407f4acbc",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000001-out",
+          "Id": "c2cf7ef9-2034-4c7c-b660-a8477b07f1a8",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -36,11 +36,11 @@
       "ConcreteType": "CoreNodeModels.Input.StringInput, CoreNodeModels",
       "NodeType": "StringInputNode",
       "InputValue": "RASANTE",
-      "Id": "a1a1a1a1-0001-0001-0001-000000000002",
+      "Id": "55a754fc-156c-4c44-85db-468f520c035a",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000002-out",
+          "Id": "78b39e84-cb33-4bff-adfe-8225077d077f",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -59,11 +59,11 @@
       "ConcreteType": "CoreNodeModels.Input.StringInput, CoreNodeModels",
       "NodeType": "StringInputNode",
       "InputValue": "EJE DE CAMINO",
-      "Id": "a1a1a1a1-0001-0001-0001-000000000003",
+      "Id": "88da2922-37fb-45c0-8b94-9fde1854e571",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000003-out",
+          "Id": "2cae4107-a35c-45c9-b246-8f0b25a0fde4",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -83,11 +83,11 @@
       "NodeType": "NumberInputNode",
       "NumberType": "Double",
       "InputValue": 0.2,
-      "Id": "a1a1a1a1-0001-0001-0001-000000000004",
+      "Id": "35183d74-64cd-4eef-8508-576c990cc08a",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000004-out",
+          "Id": "373d83aa-fcdf-408d-bcd6-49d32f6162be",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -107,11 +107,11 @@
       "NodeType": "NumberInputNode",
       "NumberType": "Double",
       "InputValue": 12.0,
-      "Id": "a1a1a1a1-0001-0001-0001-000000000005",
+      "Id": "912ad3d9-862b-43f5-8a9f-6fb1b16a6f58",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000005-out",
+          "Id": "7627b6eb-0c7f-493f-91ac-90439baf2c96",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -131,11 +131,11 @@
       "NodeType": "NumberInputNode",
       "NumberType": "Double",
       "InputValue": 5.0,
-      "Id": "a1a1a1a1-0001-0001-0001-000000000006",
+      "Id": "c2f592e7-baa4-4cfe-8045-35b9910da983",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000006-out",
+          "Id": "18b6c44a-ee76-423a-bbc7-3323dd35e362",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -155,11 +155,11 @@
       "NodeType": "NumberInputNode",
       "NumberType": "Double",
       "InputValue": 1000.0,
-      "Id": "a1a1a1a1-0001-0001-0001-000000000007",
+      "Id": "2abe975d-6627-4555-be03-17ca32302531",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000007-out",
+          "Id": "ed09176d-4bd3-4755-bcda-07e592590d73",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -179,11 +179,11 @@
       "NodeType": "NumberInputNode",
       "NumberType": "Double",
       "InputValue": 100.0,
-      "Id": "a1a1a1a1-0001-0001-0001-000000000008",
+      "Id": "a44a9657-b094-4060-b5bd-ced7d3a78b48",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000008-out",
+          "Id": "93fd5f03-dadc-4b1c-9626-2ce890500f60",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -202,11 +202,11 @@
       "ConcreteType": "CoreNodeModels.Input.BoolSelector, CoreNodeModels",
       "NodeType": "BooleanInputNode",
       "InputValue": true,
-      "Id": "a1a1a1a1-0001-0001-0001-000000000009",
+      "Id": "0b6eb257-53e7-4ba9-9f5c-f90d2043333d",
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "a1a1a1a1-0001-0001-0001-000000000009-out",
+          "Id": "18f51f09-749b-4c9e-a965-85b1d4d37ae5",
           "Name": "",
           "Description": "",
           "UsingDefaultValue": false,
@@ -227,10 +227,10 @@
       "Engine": "IronPython2",
       "EngineName": "IronPython2",
       "Script": "\"\"\"\n╔══════════════════════════════════════════════════════════════════════╗\n║   RUN COMPLETO — Civil 3D Toolkit                                   ║\n║   Ejecuta los 4 pasos en secuencia automática:                      ║\n║     1. Alineamiento desde polilínea \"EJE DE CAMINO\"                 ║\n║     2. Corredor vial con ensamble \"camino\"                          ║\n║     3. Superficie de desbroce \"SDESBROCE\"                           ║\n║     4. Vista de perfil longitudinal (TN · SDESBROCE · RASANTE)      ║\n║   Compatible: Civil 3D 2018 → 2026                                  ║\n╚══════════════════════════════════════════════════════════════════════╝\n\nINPUTS (conectar nodos en Dynamo — todos tienen valor por defecto):\n  IN[0] nombre_alineamiento  str   → ej: \"EJE PRINCIPAL\"   (def: \"EJE PRINCIPAL\")\n  IN[1] nombre_rasante       str   → nombre del perfil rasante (def: \"RASANTE\")\n  IN[2] capa_polilinea       str   → capa del eje dibujado  (def: \"EJE DE CAMINO\")\n  IN[3] delta_desbroce       float → espesor descapote en m (def: 0.20)\n  IN[4] pendiente_max        float → % máx. pendiente       (def: 12.0)\n  IN[5] intervalo_corredor   float → intervalo de sección   (def: 5.0)\n  IN[6] escala_h             float → escala horizontal vista (def: 1000.0)\n  IN[7] escala_v             float → escala vertical vista   (def: 100.0)\n  IN[8] sobrescribir         bool  → reconstruir si existe  (def: True)\n\nOUTPUTS:\n  OUT[0] resumen   → dict con ids de los objetos creados\n  OUT[1] log       → lista completa de mensajes del proceso\n\"\"\"\n\nimport clr\nimport sys\nimport math\n\n# ── Carga de DLLs ────────────────────────────────────────────────────\nfor _ref in ['AeccDbMgd', 'AcMgd', 'AcCoreMgd', 'AcDbMgd']:\n    try:\n        clr.AddReference(_ref)\n    except:\n        pass\n\nfrom Autodesk.AutoCAD.ApplicationServices import Application\nfrom Autodesk.AutoCAD.DatabaseServices import (\n    Transaction, OpenMode, ObjectId,\n    Polyline, Polyline2d, Polyline3d,\n    BlockTableRecord, BlockTable\n)\nfrom Autodesk.AutoCAD.Geometry import Point3d, Point2d\n\nfrom Autodesk.Civil.ApplicationServices import CivilApplication\nfrom Autodesk.Civil.DatabaseServices import (\n    Alignment, AlignmentCreationOptions,\n    Profile, ProfileView,\n    Corridor,\n    TinSurface,\n)\n\ndoc      = Application.DocumentManager.MdiActiveDocument\ndb       = doc.Database\ncivil_db = CivilApplication.ActiveDocument\nlog      = []\n\n# ════════════════════════════════════════════════════════════════════\n# LECTURA DE INPUTS (con defaults si el nodo no está conectado)\n# ════════════════════════════════════════════════════════════════════\ndef _in(idx, default, cast=str):\n    try:\n        v = IN[idx]\n        if v is None or str(v).strip() == \"\":\n            return default\n        return cast(v)\n    except:\n        return default\n\n_ali_nombre  = _in(0, \"EJE PRINCIPAL\", str).strip()\n_ras_nombre  = _in(1, \"RASANTE\",       str).strip()\n_capa        = _in(2, \"EJE DE CAMINO\", str).strip()\n_delta       = _in(3, 0.20,            float)\n_pend_max    = _in(4, 12.0,            float)\n_intervalo   = _in(5, 5.0,             float)\n_esc_h       = _in(6, 1000.0,          float)\n_esc_v       = _in(7, 100.0,           float)\n_sobrescribir= _in(8, True,            bool)\n\n# Nombres fijos del proyecto\n_TERRENO  = \"TN\"\n_DESBROCE = \"SDESBROCE\"\n_ENSAMBLE = \"camino\"\n\nlog.append(\"═\" * 60)\nlog.append(\"  CIVIL 3D TOOLKIT — RUN COMPLETO\")\nlog.append(\"═\" * 60)\nlog.append(f\"  Alineamiento : {_ali_nombre}\")\nlog.append(f\"  Rasante      : {_ras_nombre}\")\nlog.append(f\"  Capa eje     : {_capa}\")\nlog.append(f\"  Delta desc.  : {_delta} m\")\nlog.append(f\"  Pend. máx.   : {_pend_max} %\")\nlog.append(f\"  Intervalo    : {_intervalo} m\")\nlog.append(f\"  Escala H/V   : 1:{int(_esc_h)} / 1:{int(_esc_v)}\")\nlog.append(f\"  Sobrescribir : {_sobrescribir}\")\nlog.append(\"═\" * 60)\n\n\n# ════════════════════════════════════════════════════════════════════\n# HELPERS COMUNES\n# ════════════════════════════════════════════════════════════════════\ndef get_surface(nombre, trans, modo=OpenMode.ForRead):\n    for oid in civil_db.GetSurfaceIds():\n        o = trans.GetObject(oid, modo)\n        if hasattr(o, 'Name') and o.Name == nombre:\n            return o\n    return None\n\ndef get_alignment(nombre, trans, modo=OpenMode.ForRead):\n    for oid in civil_db.GetAlignmentIds():\n        o = trans.GetObject(oid, modo)\n        if hasattr(o, 'Name') and o.Name == nombre:\n            return o\n    return None\n\ndef get_profile(ali, nombre, trans):\n    try:\n        for pid in ali.GetProfileIds():\n            p = trans.GetObject(pid, OpenMode.ForRead)\n            if hasattr(p, 'Name') and p.Name == nombre:\n                return p\n    except:\n        pass\n    return None\n\ndef get_assembly(nombre, trans):\n    try:\n        for oid in civil_db.GetAssemblyIds():\n            o = trans.GetObject(oid, OpenMode.ForRead)\n            if hasattr(o, 'Name') and o.Name == nombre:\n                return o\n    except:\n        pass\n    return None\n\ndef erase_if_exists_alignment(nombre, trans):\n    try:\n        for oid in civil_db.GetAlignmentIds():\n            o = trans.GetObject(oid, OpenMode.ForRead)\n            if hasattr(o, 'Name') and o.Name == nombre:\n                if _sobrescribir:\n                    trans.GetObject(oid, OpenMode.ForWrite).Erase()\n                    log.append(f\"  [INFO] Alineamiento '{nombre}' eliminado para recrear.\")\n                    return True\n                else:\n                    log.append(f\"  [INFO] Alineamiento '{nombre}' ya existe. sobrescribir=False.\")\n                    return False\n    except:\n        pass\n    return True\n\ndef erase_if_exists_surface(nombre, trans):\n    try:\n        for oid in civil_db.GetSurfaceIds():\n            o = trans.GetObject(oid, OpenMode.ForRead)\n            if hasattr(o, 'Name') and o.Name == nombre:\n                if _sobrescribir:\n                    trans.GetObject(oid, OpenMode.ForWrite).Erase()\n                    log.append(f\"  [INFO] Superficie '{nombre}' eliminada para recrear.\")\n                    return True\n                else:\n                    log.append(f\"  [INFO] Superficie '{nombre}' ya existe. sobrescribir=False.\")\n                    return False\n    except:\n        pass\n    return True\n\n\n# ════════════════════════════════════════════════════════════════════\n# PASO 1 — ALINEAMIENTO DESDE POLILÍNEA\n# ════════════════════════════════════════════════════════════════════\ndef radio_desde_bulge(bulge, p1, p2):\n    if abs(bulge) < 1e-9:\n        return None\n    cuerda = p1.GetDistanceTo(p2)\n    if cuerda < 1e-9:\n        return None\n    angulo  = abs(4.0 * math.atan(bulge))\n    divisor = 2.0 * math.sin(angulo / 2.0)\n    if abs(divisor) < 1e-9:\n        return None\n    return cuerda / divisor\n\ndef analizar_pline(pline):\n    segmentos = []\n    n = pline.NumberOfVertices\n    for i in range(n - 1):\n        p1    = pline.GetPoint2dAt(i)\n        p2    = pline.GetPoint2dAt(i + 1)\n        bulge = pline.GetBulgeAt(i)\n        radio = radio_desde_bulge(bulge, p1, p2)\n        segmentos.append({\n            'tipo': 'arco' if radio else 'tangente',\n            'p1': p1, 'p2': p2,\n            'bulge': bulge, 'radio': radio, 'cw': bulge < 0\n        })\n    if pline.Closed and n > 1:\n        p1    = pline.GetPoint2dAt(n - 1)\n        p2    = pline.GetPoint2dAt(0)\n        bulge = pline.GetBulgeAt(n - 1)\n        radio = radio_desde_bulge(bulge, p1, p2)\n        segmentos.append({\n            'tipo': 'arco' if radio else 'tangente',\n            'p1': p1, 'p2': p2,\n            'bulge': bulge, 'radio': radio, 'cw': bulge < 0\n        })\n    return segmentos\n\ndef buscar_plines(trans):\n    capa_upper = _capa.upper()\n    encontradas = []\n    try:\n        bt  = trans.GetObject(db.BlockTableId, OpenMode.ForRead)\n        btr = trans.GetObject(bt[BlockTableRecord.ModelSpace], OpenMode.ForRead)\n        for oid in btr:\n            try:\n                obj = trans.GetObject(oid, OpenMode.ForRead)\n                if obj.Layer.upper() != capa_upper:\n                    continue\n                if isinstance(obj, Polyline):\n                    encontradas.append(('LW', obj))\n                elif isinstance(obj, Polyline2d):\n                    encontradas.append(('2D', obj))\n                elif isinstance(obj, Polyline3d):\n                    log.append(\n                        f\"  [WARN] Polyline3D ignorada — no soporta arcos. \"\n                        \"Usa Polyline para ejes con curvas.\"\n                    )\n            except:\n                pass\n    except Exception as e:\n        log.append(f\"  [ERROR] buscando polilíneas: {e}\")\n    return encontradas\n\ndef crear_alineamiento_manual(segmentos, estilo_ali, estilo_label, trans):\n    try:\n        ali_id = Alignment.Create(civil_db, _ali_nombre, None, estilo_ali, estilo_label)\n        ali    = trans.GetObject(ali_id, OpenMode.ForWrite)\n        ali.ReferencePointStation = 0.0\n        ents   = ali.Entities\n        n_t, n_a = 0, 0\n        for seg in segmentos:\n            if seg['tipo'] == 'tangente':\n                try:\n                    ents.AddFixedLine(seg['p1'], seg['p2'])\n                    n_t += 1\n                except Exception as e:\n                    log.append(f\"  [WARN] tangente: {e}\")\n            else:\n                try:\n                    ents.AddFixedCurve(seg['p1'], seg['p2'], seg['radio'], seg['cw'])\n                    n_a += 1\n                except Exception as e:\n                    log.append(f\"  [WARN] arco R={seg['radio']:.2f}m: {e} — agregado como tangente.\")\n                    try:\n                        ents.AddFixedLine(seg['p1'], seg['p2'])\n                        n_t += 1\n                    except:\n                        pass\n        ali_r = trans.GetObject(ali_id, OpenMode.ForRead)\n        log.append(f\"  [OK]  Alineamiento manual: {n_t} tangentes + {n_a} arcos.\")\n        return ali_id, ali_r.Length\n    except Exception as e:\n        log.append(f\"  [ERROR] alineamiento manual: {e}\")\n        return None, 0.0\n\ndef paso1_alineamiento(trans):\n    log.append(\"\")\n    log.append(\"── PASO 1: ALINEAMIENTO ─────────────────────────────────\")\n    plines = buscar_plines(trans)\n    if not plines:\n        log.append(f\"  [ERROR] Sin polilíneas en capa '{_capa}'. Verifica el nombre de capa.\")\n        return None, 0.0\n\n    log.append(f\"  [INFO] {len(plines)} polilínea(s) en '{_capa}'.\")\n    tipo_sel, pline_sel = max(plines, key=lambda x: x[1].Length)\n    if len(plines) > 1:\n        log.append(f\"  [WARN] Se usa la más larga ({pline_sel.Length:.2f} m).\")\n\n    segmentos = analizar_pline(pline_sel) if tipo_sel == 'LW' else []\n    n_t = sum(1 for s in segmentos if s['tipo'] == 'tangente')\n    n_a = sum(1 for s in segmentos if s['tipo'] == 'arco')\n    if segmentos:\n        log.append(f\"  [INFO] Geometría: {n_t} tangente(s) + {n_a} arco(s).\")\n\n    if not erase_if_exists_alignment(_ali_nombre, trans):\n        ali = get_alignment(_ali_nombre, trans)\n        return ali.ObjectId if ali else None, ali.Length if ali else 0.0\n\n    estilo_ali   = civil_db.Styles.AlignmentStyles[0].ObjectId\n    estilo_label = civil_db.Styles.LabelSetStyles.AlignmentLabelSetStyles[0].ObjectId\n\n    try:\n        try:\n            opciones = AlignmentCreationOptions()\n            opciones.StartingStation = 0.0\n            ali_id = Alignment.Create(\n                civil_db, pline_sel.ObjectId, _ali_nombre,\n                None, estilo_ali, estilo_label, opciones\n            )\n        except:\n            ali_id = Alignment.Create(\n                civil_db, pline_sel.ObjectId, _ali_nombre,\n                None, estilo_ali, estilo_label\n            )\n\n        ali = trans.GetObject(ali_id, OpenMode.ForRead)\n\n        # Verificar si los arcos se transfirieron\n        n_curvas = 0\n        try:\n            for i in range(ali.Entities.Count):\n                t = type(ali.Entities[i]).__name__\n                if 'Curve' in t or 'Arc' in t:\n                    n_curvas += 1\n        except:\n            pass\n\n        if n_a > 0 and n_curvas == 0 and segmentos:\n            log.append(f\"  [WARN] Create() no preservó los arcos. Usando método manual...\")\n            trans.GetObject(ali_id, OpenMode.ForWrite).Erase()\n            return crear_alineamiento_manual(segmentos, estilo_ali, estilo_label, trans)\n\n        log.append(f\"  [OK]  Alineamiento '{_ali_nombre}' | L={ali.Length:.2f} m | {ali.Entities.Count} entidades.\")\n        return ali_id, ali.Length\n\n    except Exception as e:\n        log.append(f\"  [WARN] Create() falló ({e}). Método manual...\")\n        return crear_alineamiento_manual(segmentos, estilo_ali, estilo_label, trans)\n\n\n# ════════════════════════════════════════════════════════════════════\n# PASO 2 — CORREDOR VIAL\n# ════════════════════════════════════════════════════════════════════\ndef validar_pendientes(perfil):\n    problemas = []\n    try:\n        pvis = perfil.PVIs\n        for i in range(pvis.Count - 1):\n            p1, p2 = pvis[i], pvis[i + 1]\n            dist = abs(p2.Station - p1.Station)\n            if dist > 0:\n                pend = abs(p2.Elevation - p1.Elevation) / dist * 100\n                if pend > _pend_max:\n                    problemas.append({'desde': round(p1.Station, 2),\n                                      'hasta': round(p2.Station, 2),\n                                      'pendiente': round(pend, 2)})\n                    log.append(f\"  [ALERTA] Pendiente {pend:.2f}% entre Est. {p1.Station:.2f}–{p2.Station:.2f} m\")\n    except Exception as e:\n        log.append(f\"  [WARN] validando pendientes: {e}\")\n    return problemas\n\ndef paso2_corredor(trans):\n    log.append(\"\")\n    log.append(\"── PASO 2: CORREDOR ─────────────────────────────────────\")\n\n    ali      = get_alignment(_ali_nombre, trans)\n    terreno  = get_surface(_TERRENO,  trans)\n    ensamble = get_assembly(_ENSAMBLE, trans)\n\n    faltantes = []\n    if not ali:      faltantes.append(f\"Alineamiento '{_ali_nombre}'\")\n    if not terreno:  faltantes.append(f\"Superficie '{_TERRENO}'\")\n    if not ensamble: faltantes.append(f\"Ensamble '{_ENSAMBLE}'\")\n    if faltantes:\n        log.append(f\"  [ERROR] No encontrado: {' | '.join(faltantes)}\")\n        return None, []\n\n    perfil = get_profile(ali, _ras_nombre, trans)\n    if not perfil:\n        log.append(f\"  [ERROR] Perfil de rasante '{_ras_nombre}' no encontrado en '{_ali_nombre}'.\")\n        return None, []\n\n    problemas = validar_pendientes(perfil)\n    if not problemas:\n        log.append(f\"  [OK]  Pendientes dentro del criterio ({_pend_max}%).\")\n\n    nombre_corr = f\"CORREDOR_{_ali_nombre}\"\n\n    # ¿Ya existe?\n    try:\n        for cid in civil_db.GetCorridorIds():\n            c = trans.GetObject(cid, OpenMode.ForRead)\n            if hasattr(c, 'Name') and c.Name == nombre_corr:\n                if _sobrescribir:\n                    cw = trans.GetObject(cid, OpenMode.ForWrite)\n                    cw.Rebuild()\n                    log.append(f\"  [OK]  Corredor '{nombre_corr}' reconstruido.\")\n                    return cid, problemas\n                else:\n                    log.append(f\"  [INFO] Corredor '{nombre_corr}' ya existe. sobrescribir=False.\")\n                    return cid, problemas\n    except Exception as e:\n        log.append(f\"  [WARN] buscando corredor existente: {e}\")\n\n    # Crear\n    try:\n        corr_id = Corridor.Create(\n            civil_db, nombre_corr,\n            ali.ObjectId, perfil.ObjectId, ensamble.ObjectId\n        )\n        corr = trans.GetObject(corr_id, OpenMode.ForWrite)\n        try:\n            corr.Baselines[0].BaselineRegions[0].SamplingInterval = _intervalo\n        except Exception as e:\n            log.append(f\"  [WARN] intervalo de muestreo: {e}\")\n        try:\n            corr.AddSurface(terreno.ObjectId)\n        except Exception as e:\n            log.append(f\"  [WARN] asociando superficie TN: {e}\")\n        corr.Rebuild()\n        log.append(f\"  [OK]  Corredor '{nombre_corr}' creado con ensamble '{_ENSAMBLE}'.\")\n        return corr_id, problemas\n    except Exception as e:\n        log.append(f\"  [ERROR] creando corredor: {e}\")\n        return None, problemas\n\n\n# ════════════════════════════════════════════════════════════════════\n# PASO 3 — SUPERFICIE DESBROCE\n# ════════════════════════════════════════════════════════════════════\ndef paso3_desbroce(trans):\n    log.append(\"\")\n    log.append(\"── PASO 3: DESBROCE ─────────────────────────────────────\")\n\n    if _delta <= 0:\n        log.append(f\"  [ERROR] delta_desbroce debe ser > 0 (recibido: {_delta}).\")\n        return None, 0\n\n    tn = get_surface(_TERRENO, trans)\n    if not tn:\n        log.append(f\"  [ERROR] Superficie '{_TERRENO}' no encontrada.\")\n        return None, 0\n\n    log.append(\n        f\"  [INFO] TN: {tn.Vertices.Count} vértices | \"\n        f\"Z [{tn.FindMinimumElevation():.2f} – {tn.FindMaximumElevation():.2f}] m\"\n    )\n\n    if not erase_if_exists_surface(_DESBROCE, trans):\n        sup = get_surface(_DESBROCE, trans)\n        return sup, sup.Vertices.Count if sup else 0\n\n    # Crear superficie vacía\n    sup_desb = None\n    try:\n        eid = civil_db.Styles.SurfaceStyles[0].ObjectId\n        sid = TinSurface.Create(civil_db, _DESBROCE, eid)\n        sup_desb = trans.GetObject(sid, OpenMode.ForWrite)\n    except:\n        try:\n            sid = TinSurface.Create(civil_db, _DESBROCE)\n            sup_desb = trans.GetObject(sid, OpenMode.ForWrite)\n        except Exception as e:\n            log.append(f\"  [ERROR] creando superficie TIN: {e}\")\n            return None, 0\n\n    sup_desb.Description = f\"Desbroce TN − {_delta:.3f} m\"\n\n    # Copiar puntos con delta hacia abajo\n    total = 0\n    try:\n        pts = [Point3d(v.Location.X, v.Location.Y, v.Location.Z - _delta)\n               for v in tn.Vertices]\n        BATCH = 500\n        for i in range(0, len(pts), BATCH):\n            for pt in pts[i:i + BATCH]:\n                try:\n                    sup_desb.AddPoint(pt)\n                except:\n                    pass\n            total += len(pts[i:i + BATCH])\n    except AttributeError:\n        # Fallback por triángulos\n        log.append(\"  [WARN] Usando triángulos como fuente de puntos...\")\n        vistos = set()\n        try:\n            for tri in tn.Triangles:\n                for v in [tri.Vertex1, tri.Vertex2, tri.Vertex3]:\n                    k = (round(v.Location.X, 4), round(v.Location.Y, 4))\n                    if k not in vistos:\n                        vistos.add(k)\n                        try:\n                            sup_desb.AddPoint(Point3d(\n                                v.Location.X, v.Location.Y, v.Location.Z - _delta\n                            ))\n                            total += 1\n                        except:\n                            pass\n        except Exception as e:\n            log.append(f\"  [ERROR] fallback triángulos: {e}\")\n    except Exception as e:\n        log.append(f\"  [ERROR] copiando puntos: {e}\")\n\n    sup_desb.Rebuild()\n    log.append(\n        f\"  [OK]  SDESBROCE lista: {total} puntos | \"\n        f\"{sup_desb.NumberOfTriangles} triángulos | \"\n        f\"TN − {_delta*100:.0f} cm.\"\n    )\n    return sid, total\n\n\n# ════════════════════════════════════════════════════════════════════\n# PASO 4 — VISTA DE PERFIL LONGITUDINAL\n# ════════════════════════════════════════════════════════════════════\ndef get_or_create_surface_profile(ali, sup, prefijo, trans):\n    nombre = f\"{prefijo}_{sup.Name}\"\n    try:\n        for pid in ali.GetProfileIds():\n            p = trans.GetObject(pid, OpenMode.ForRead)\n            if hasattr(p, 'Name') and p.Name == nombre:\n                log.append(f\"  [INFO] Perfil '{nombre}' ya existe.\")\n                return p\n    except:\n        pass\n    try:\n        eid = civil_db.Styles.ProfileStyles[0].ObjectId\n        lid = civil_db.Styles.LabelSetStyles.ProfileLabelSetStyles[0].ObjectId\n        pid = Profile.CreateFromSurface(nombre, ali.ObjectId, sup.ObjectId, eid, lid)\n        p   = trans.GetObject(pid, OpenMode.ForRead)\n        log.append(f\"  [OK]  Perfil '{nombre}' creado desde superficie '{sup.Name}'.\")\n        return p\n    except Exception as e:\n        log.append(f\"  [ERROR] creando perfil desde '{sup.Name}': {e}\")\n        return None\n\ndef punto_insercion_derecha(ali):\n    try:\n        ext  = ali.GeomExtents\n        off  = max(ali.Length * 0.10, 50.0)\n        x    = ext.MaxPoint.X + off\n        y    = (ext.MinPoint.Y + ext.MaxPoint.Y) / 2.0\n        log.append(f\"  [INFO] Vista insertada en X={x:.1f}, Y={y:.1f} (offset {off:.1f} m).\")\n        return Point3d(x, y, 0.0)\n    except Exception as e:\n        log.append(f\"  [WARN] punto inserción: {e}. Usando origen.\")\n        return Point3d(0, 0, 0)\n\ndef paso4_vista_perfil(trans):\n    log.append(\"\")\n    log.append(\"── PASO 4: VISTA DE PERFIL ──────────────────────────────\")\n\n    ali     = get_alignment(_ali_nombre, trans)\n    sup_tn  = get_surface(_TERRENO,   trans)\n    sup_dsb = get_surface(_DESBROCE,  trans)\n\n    if not ali:\n        log.append(f\"  [ERROR] Alineamiento '{_ali_nombre}' no encontrado.\")\n        return None\n\n    perf_tn  = get_or_create_surface_profile(ali, sup_tn,  \"TN\", trans) if sup_tn  else None\n    perf_dsb = get_or_create_surface_profile(ali, sup_dsb, \"SD\", trans) if sup_dsb else None\n    perf_ras = get_profile(ali, _ras_nombre, trans)\n\n    if not perf_tn:  log.append(f\"  [WARN] Sin perfil TN — superficie '{_TERRENO}' no disponible.\")\n    if not perf_dsb: log.append(f\"  [WARN] Sin perfil desbroce — superficie '{_DESBROCE}' no disponible.\")\n    if not perf_ras: log.append(f\"  [WARN] Sin perfil rasante '{_ras_nombre}' — agrégalo después.\")\n\n    nombre_vista = f\"PL_{_ali_nombre}\"\n\n    # ¿Ya existe?\n    try:\n        for pvid in ali.GetProfileViewIds():\n            pv = trans.GetObject(pvid, OpenMode.ForRead)\n            if hasattr(pv, 'Name') and pv.Name == nombre_vista:\n                log.append(f\"  [INFO] Vista '{nombre_vista}' ya existe. Actualizando perfiles.\")\n                pv_w = trans.GetObject(pvid, OpenMode.ForWrite)\n                for p in [perf_tn, perf_dsb, perf_ras]:\n                    if p:\n                        try: pv_w.AddProfile(p.ObjectId)\n                        except: pass\n                return pvid\n    except Exception as e:\n        log.append(f\"  [WARN] buscando vista existente: {e}\")\n\n    pt_ins   = punto_insercion_derecha(ali)\n    estilo_pv = civil_db.Styles.ProfileViewStyles[0].ObjectId\n\n    try:\n        try:\n            from Autodesk.Civil.DatabaseServices import ProfileViewOptions\n            opts = ProfileViewOptions()\n            opts.DrawElevationGridlines = True\n            pv_id = ProfileView.Create(\n                civil_db, nombre_vista, ali.ObjectId, pt_ins, estilo_pv, opts\n            )\n        except:\n            pv_id = ProfileView.Create(\n                civil_db, nombre_vista, ali.ObjectId, pt_ins, estilo_pv\n            )\n\n        pv = trans.GetObject(pv_id, OpenMode.ForWrite)\n        estilos_p = civil_db.Styles.ProfileStyles\n\n        for i, perfil in enumerate([perf_tn, perf_dsb, perf_ras]):\n            if perfil is None:\n                continue\n            try:\n                eid = estilos_p[min(0 if i < 2 else 1, estilos_p.Count - 1)].ObjectId\n                pv.AddProfile(perfil.ObjectId, eid)\n                log.append(f\"  [OK]  Perfil '{perfil.Name}' agregado a la vista.\")\n            except:\n                try:\n                    pv.AddProfile(perfil.ObjectId)\n                    log.append(f\"  [OK]  Perfil '{perfil.Name}' agregado (sin estilo).\")\n                except Exception as e:\n                    log.append(f\"  [WARN] no se pudo agregar '{perfil.Name}': {e}\")\n\n        log.append(f\"  [OK]  Vista '{nombre_vista}' creada.\")\n        return pv_id\n\n    except Exception as e:\n        log.append(f\"  [ERROR] creando vista de perfil: {e}\")\n        return None\n\n\n# ════════════════════════════════════════════════════════════════════\n# EJECUCIÓN COMPLETA EN SECUENCIA\n# ════════════════════════════════════════════════════════════════════\nresumen = {\n    'alineamiento_id':  None,\n    'corredor_id':      None,\n    'desbroce_id':      None,\n    'vista_perfil_id':  None,\n    'pendientes_problema': [],\n    'pasos_ok': []\n}\n\nwith doc.LockDocument():\n    # ── Paso 1: Alineamiento ──────────────────────────────────────\n    with db.TransactionManager.StartTransaction() as trans:\n        try:\n            ali_id, ali_long = paso1_alineamiento(trans)\n            if ali_id:\n                trans.Commit()\n                resumen['alineamiento_id'] = ali_id\n                resumen['pasos_ok'].append('ALINEAMIENTO')\n                log.append(f\"  [✓] Paso 1 completado. L = {ali_long:.2f} m\")\n            else:\n                trans.Abort()\n                log.append(\"  [✗] Paso 1 FALLIDO — los pasos siguientes pueden fallar.\")\n        except Exception as e:\n            log.append(f\"  [ERROR CRÍTICO] Paso 1: {e}\")\n            trans.Abort()\n\n    # ── Paso 2: Corredor ─────────────────────────────────────────\n    with db.TransactionManager.StartTransaction() as trans:\n        try:\n            corr_id, problemas = paso2_corredor(trans)\n            if corr_id:\n                trans.Commit()\n                resumen['corredor_id']        = corr_id\n                resumen['pendientes_problema'] = problemas\n                resumen['pasos_ok'].append('CORREDOR')\n                log.append(f\"  [✓] Paso 2 completado. Tramos con pend > {_pend_max}%: {len(problemas)}\")\n            else:\n                trans.Abort()\n                log.append(\"  [✗] Paso 2 FALLIDO.\")\n        except Exception as e:\n            log.append(f\"  [ERROR CRÍTICO] Paso 2: {e}\")\n            trans.Abort()\n\n    # ── Paso 3: Desbroce ─────────────────────────────────────────\n    with db.TransactionManager.StartTransaction() as trans:\n        try:\n            dsb_id, n_pts = paso3_desbroce(trans)\n            if dsb_id:\n                trans.Commit()\n                resumen['desbroce_id'] = dsb_id\n                resumen['pasos_ok'].append('DESBROCE')\n                log.append(f\"  [✓] Paso 3 completado. {n_pts} puntos procesados.\")\n            else:\n                trans.Abort()\n                log.append(\"  [✗] Paso 3 FALLIDO.\")\n        except Exception as e:\n            log.append(f\"  [ERROR CRÍTICO] Paso 3: {e}\")\n            trans.Abort()\n\n    # ── Paso 4: Vista de Perfil ──────────────────────────────────\n    with db.TransactionManager.StartTransaction() as trans:\n        try:\n            pv_id = paso4_vista_perfil(trans)\n            if pv_id:\n                trans.Commit()\n                resumen['vista_perfil_id'] = pv_id\n                resumen['pasos_ok'].append('VISTA PERFIL')\n                log.append(f\"  [✓] Paso 4 completado.\")\n            else:\n                trans.Abort()\n                log.append(\"  [✗] Paso 4 FALLIDO.\")\n        except Exception as e:\n            log.append(f\"  [ERROR CRÍTICO] Paso 4: {e}\")\n            trans.Abort()\n\n# ── Resumen final ────────────────────────────────────────────────\nlog.append(\"\")\nlog.append(\"═\" * 60)\nn_ok = len(resumen['pasos_ok'])\nlog.append(f\"  RESULTADO: {n_ok}/4 pasos completados\")\nif resumen['pasos_ok']:\n    log.append(f\"  OK  → {' · '.join(resumen['pasos_ok'])}\")\npasos_fallidos = [p for p in ['ALINEAMIENTO','CORREDOR','DESBROCE','VISTA PERFIL']\n                  if p not in resumen['pasos_ok']]\nif pasos_fallidos:\n    log.append(f\"  FAIL→ {' · '.join(pasos_fallidos)}\")\nlog.append(\"═\" * 60)\n\nOUT = [resumen, log]\n",
-      "Id": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Id": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "Inputs": [
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in0",
+          "Id": "2a11ba46-560f-455a-bb35-cdb7380f891c",
           "Name": "IN[0]",
           "Description": "Input #0",
           "UsingDefaultValue": false,
@@ -239,7 +239,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in1",
+          "Id": "4f9da080-a7cf-4f6e-95c4-e775b620165f",
           "Name": "IN[1]",
           "Description": "Input #1",
           "UsingDefaultValue": false,
@@ -248,7 +248,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in2",
+          "Id": "31c82850-ab3e-4b80-a118-3fdeda7b04e5",
           "Name": "IN[2]",
           "Description": "Input #2",
           "UsingDefaultValue": false,
@@ -257,7 +257,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in3",
+          "Id": "8e4136d6-421c-4525-a8ec-c6dca9620e4f",
           "Name": "IN[3]",
           "Description": "Input #3",
           "UsingDefaultValue": false,
@@ -266,7 +266,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in4",
+          "Id": "2a2e80ef-c8bc-47b0-b473-3e196bf30ca8",
           "Name": "IN[4]",
           "Description": "Input #4",
           "UsingDefaultValue": false,
@@ -275,7 +275,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in5",
+          "Id": "2841207b-242e-4fa1-b3b2-685168f31a0d",
           "Name": "IN[5]",
           "Description": "Input #5",
           "UsingDefaultValue": false,
@@ -284,7 +284,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in6",
+          "Id": "9772425c-90c7-4632-81ef-d187f49fe62a",
           "Name": "IN[6]",
           "Description": "Input #6",
           "UsingDefaultValue": false,
@@ -293,7 +293,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in7",
+          "Id": "dbe19c44-9bfb-49fa-b761-23e881da8563",
           "Name": "IN[7]",
           "Description": "Input #7",
           "UsingDefaultValue": false,
@@ -302,7 +302,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-in8",
+          "Id": "64c8887f-9df4-404d-ad01-74a7080f728b",
           "Name": "IN[8]",
           "Description": "Input #8",
           "UsingDefaultValue": false,
@@ -313,7 +313,7 @@
       ],
       "Outputs": [
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-out0",
+          "Id": "9bc71912-0203-4822-b20d-0d2b93aa5033",
           "Name": "OUT[0]",
           "Description": "Result of the python script",
           "UsingDefaultValue": false,
@@ -322,7 +322,7 @@
           "KeepListStructure": false
         },
         {
-          "Id": "b0b0b0b0-0000-0000-0000-000000000001-out1",
+          "Id": "ccea520c-5d55-4bc9-aa67-beca083f7da6",
           "Name": "OUT[1]",
           "Description": "Result of the python script",
           "UsingDefaultValue": false,
@@ -334,16 +334,16 @@
       "Replication": "Disabled",
       "Description": "Runs a IronPython script.",
       "Name": "RUN COMPLETO",
-      "X": 620,
-      "Y": 320
+      "X": 650,
+      "Y": 300
     },
     {
       "ConcreteType": "CoreNodeModels.Watch, CoreNodeModels",
       "NodeType": "ExtensionNode",
-      "Id": "c0c0c0c0-0000-0000-0000-000000000001",
+      "Id": "35f7540c-5704-457e-ac08-af9a624aa008",
       "Inputs": [
         {
-          "Id": "c0c0c0c0-0000-0000-0000-000000000001-in",
+          "Id": "29f94942-97dd-4368-8b5d-f283c441e49e",
           "Name": "",
           "Description": "Node to evaluate.",
           "UsingDefaultValue": false,
@@ -354,9 +354,9 @@
       ],
       "Outputs": [
         {
-          "Id": "c0c0c0c0-0000-0000-0000-000000000001-out",
+          "Id": "494b5df0-a920-4806-b841-05a522011e65",
           "Name": "",
-          "Description": "Watch contents.",
+          "Description": "",
           "UsingDefaultValue": false,
           "Level": 2,
           "UseLevels": false,
@@ -366,16 +366,16 @@
       "Replication": "Disabled",
       "Description": "Visualize the node's output",
       "Name": "Resumen",
-      "X": 1100,
-      "Y": 200
+      "X": 1120,
+      "Y": 180
     },
     {
       "ConcreteType": "CoreNodeModels.Watch, CoreNodeModels",
       "NodeType": "ExtensionNode",
-      "Id": "c0c0c0c0-0000-0000-0000-000000000002",
+      "Id": "25882a30-c8f5-4cae-8f06-b8230c27ddb1",
       "Inputs": [
         {
-          "Id": "c0c0c0c0-0000-0000-0000-000000000002-in",
+          "Id": "4ab9dae5-1d23-42cc-8bdb-d1c3b581cd5f",
           "Name": "",
           "Description": "Node to evaluate.",
           "UsingDefaultValue": false,
@@ -386,9 +386,9 @@
       ],
       "Outputs": [
         {
-          "Id": "c0c0c0c0-0000-0000-0000-000000000002-out",
+          "Id": "364413dd-84a0-4ac5-934c-2569c6aea3f7",
           "Name": "",
-          "Description": "Watch contents.",
+          "Description": "",
           "UsingDefaultValue": false,
           "Level": 2,
           "UseLevels": false,
@@ -398,74 +398,74 @@
       "Replication": "Disabled",
       "Description": "Visualize the node's output",
       "Name": "Log completo",
-      "X": 1100,
-      "Y": 520
+      "X": 1120,
+      "Y": 500
     }
   ],
   "Connectors": [
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000001",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "319a5f89-b8d6-4119-bdd1-f89407f4acbc",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 0
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000002",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "55a754fc-156c-4c44-85db-468f520c035a",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 1
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000003",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "88da2922-37fb-45c0-8b94-9fde1854e571",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 2
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000004",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "35183d74-64cd-4eef-8508-576c990cc08a",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 3
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000005",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "912ad3d9-862b-43f5-8a9f-6fb1b16a6f58",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 4
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000006",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "c2f592e7-baa4-4cfe-8045-35b9910da983",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 5
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000007",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "2abe975d-6627-4555-be03-17ca32302531",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 6
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000008",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "a44a9657-b094-4060-b5bd-ced7d3a78b48",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 7
     },
     {
-      "Start": "a1a1a1a1-0001-0001-0001-000000000009",
-      "End": "b0b0b0b0-0000-0000-0000-000000000001",
+      "Start": "0b6eb257-53e7-4ba9-9f5c-f90d2043333d",
+      "End": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
       "StartIndex": 0,
       "EndIndex": 8
     },
     {
-      "Start": "b0b0b0b0-0000-0000-0000-000000000001",
-      "End": "c0c0c0c0-0000-0000-0000-000000000001",
+      "Start": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
+      "End": "35f7540c-5704-457e-ac08-af9a624aa008",
       "StartIndex": 0,
       "EndIndex": 0
     },
     {
-      "Start": "b0b0b0b0-0000-0000-0000-000000000001",
-      "End": "c0c0c0c0-0000-0000-0000-000000000002",
+      "Start": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
+      "End": "25882a30-c8f5-4cae-8f06-b8230c27ddb1",
       "StartIndex": 1,
       "EndIndex": 0
     }
@@ -509,7 +509,7 @@
       {
         "Name": "nombre_alineamiento",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000001",
+        "Id": "319a5f89-b8d6-4119-bdd1-f89407f4acbc",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -519,7 +519,7 @@
       {
         "Name": "nombre_rasante",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000002",
+        "Id": "55a754fc-156c-4c44-85db-468f520c035a",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -529,7 +529,7 @@
       {
         "Name": "capa_polilinea",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000003",
+        "Id": "88da2922-37fb-45c0-8b94-9fde1854e571",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -539,7 +539,7 @@
       {
         "Name": "delta_desbroce (m)",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000004",
+        "Id": "35183d74-64cd-4eef-8508-576c990cc08a",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -549,7 +549,7 @@
       {
         "Name": "pendiente_max (%)",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000005",
+        "Id": "912ad3d9-862b-43f5-8a9f-6fb1b16a6f58",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -559,7 +559,7 @@
       {
         "Name": "intervalo_corredor (m)",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000006",
+        "Id": "c2f592e7-baa4-4cfe-8045-35b9910da983",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -569,7 +569,7 @@
       {
         "Name": "escala_h",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000007",
+        "Id": "2abe975d-6627-4555-be03-17ca32302531",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -579,7 +579,7 @@
       {
         "Name": "escala_v",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000008",
+        "Id": "a44a9657-b094-4060-b5bd-ced7d3a78b48",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -589,7 +589,7 @@
       {
         "Name": "sobrescribir",
         "ShowGeometry": true,
-        "Id": "a1a1a1a1-0001-0001-0001-000000000009",
+        "Id": "0b6eb257-53e7-4ba9-9f5c-f90d2043333d",
         "IsSetAsInput": true,
         "IsSetAsOutput": false,
         "Excluded": false,
@@ -599,37 +599,37 @@
       {
         "Name": "RUN COMPLETO",
         "ShowGeometry": true,
-        "Id": "b0b0b0b0-0000-0000-0000-000000000001",
+        "Id": "cf28aa4f-0e85-4f7a-a1a3-979e356412aa",
         "IsSetAsInput": false,
         "IsSetAsOutput": false,
         "Excluded": false,
-        "X": 620,
-        "Y": 320
+        "X": 650,
+        "Y": 300
       },
       {
         "Name": "Resumen",
         "ShowGeometry": true,
-        "Id": "c0c0c0c0-0000-0000-0000-000000000001",
+        "Id": "35f7540c-5704-457e-ac08-af9a624aa008",
         "IsSetAsInput": false,
         "IsSetAsOutput": true,
         "Excluded": false,
-        "X": 1100,
-        "Y": 200
+        "X": 1120,
+        "Y": 180
       },
       {
         "Name": "Log completo",
         "ShowGeometry": true,
-        "Id": "c0c0c0c0-0000-0000-0000-000000000002",
+        "Id": "25882a30-c8f5-4cae-8f06-b8230c27ddb1",
         "IsSetAsInput": false,
         "IsSetAsOutput": true,
         "Excluded": false,
-        "X": 1100,
-        "Y": 520
+        "X": 1120,
+        "Y": 500
       }
     ],
     "Annotations": [],
     "X": 0.0,
     "Y": 0.0,
-    "Zoom": 1.0
+    "Zoom": 0.85
   }
 }
